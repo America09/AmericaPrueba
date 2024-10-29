@@ -1,0 +1,3 @@
+[submodule "AmericaPrueba"]
+	path = AmericaPrueba
+	url = https://github.com/America09/AmericaPrueba.git
